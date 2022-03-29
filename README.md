@@ -1,2 +1,2 @@
 # Wireless Communication
-This is for wirless communication models
+> This is for wireless communication models
